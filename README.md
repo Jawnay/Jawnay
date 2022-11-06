@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jawnay
-- 🐐
-- 👀 I’m interested in LEARNING DATASTRUCTURES
-- 🌱 I’m currently learning DATA STRUCTURES 
+- 👀 I’m interested in learning data structures in java.
+- 🌱 I’m currently learning data structures in java.
 
 
 <!---
