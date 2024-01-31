@@ -1,7 +1,5 @@
 > 👋 Hi, I’m the 🐐 Jawnay
-I am a developer. I love coding, working out, and gaming.
-
-I am that guy. I put in plenty of work on my craft, which allows me to improve at unforeseen rates.
+I am a developer. I love coding, working out, and gaming
 
 - 👀 I’m interested in Data Structures and Algorithms.
 - 🌱 I’m currently learning Computer Systems
