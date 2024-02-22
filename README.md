@@ -1,4 +1,4 @@
-> 👋 Hi, I’m the 🐐 Jawnay
+> 👋 Hi, I’m Jawnay
 I am a developer. I love coding, working out, and gaming
 
 - 👀 I’m interested in Data Structures and Algorithms.
