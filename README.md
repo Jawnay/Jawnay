@@ -1,18 +1,20 @@
 <h2 align="left">Hello! I'm Jonathan Ly</h2>
+<h3 align="center">A Computer Science Student studying at Western Washington University.</h3>
 
-###
+- 🔭 I’m currently working on a AI Cybersecurity RMF Tool for the Keyport Naval Base
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawnay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jawnay&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawnay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🌱 I’m currently learning Robotics
 
-###
+- 📫 How to reach me **jly2003@gmail.com**
 
-<img align="right" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
+- ⚡ Fun fact **I've hit top 500 in Overwatch and Valorant**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jonaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylvaz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -58,21 +60,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="jly2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jonaly/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jawnay&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
 
-<img src="https://raw.githubusercontent.com/jawnay/jawnay/output/snake.svg" alt="Snake animation" />
 
-###
