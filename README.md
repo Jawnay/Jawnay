@@ -68,6 +68,6 @@
 
 ###
 <div align="center">
-  <img align="center" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
+  <img align="center" height="150" src="https://media.tenor.com/XIQyhpE761QAAAAi/hot-day.gif"  /> 
 </div>
 
