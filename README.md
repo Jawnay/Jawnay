@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jly2003@gmail.com**
 
-- ⚡ Fun fact **I've hit top 500 in Overwatch and Valorant**
+- ⚡ Fun fact **I've hit top 150 in Overwatch and top 350 in Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,6 +68,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
+<img align="center" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
 
 
