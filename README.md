@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jly2003@gmail.com**
 
-- ⚡ Fun fact **I've hit top 150 in Overwatch and top 350 in Valorant**
+- ⚡ Fun fact **I've hit top 500 in Overwatch and Valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
