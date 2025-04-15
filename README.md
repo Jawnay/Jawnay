@@ -67,7 +67,7 @@
 </div>
 
 ###
-
-<img align="center" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
-
+<div align="center">
+  <img align="center" height="150" src="https://i.redd.it/eti95tjbyb7a1.gif"  /> 
+</div>
 
