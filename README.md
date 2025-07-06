@@ -1,5 +1,5 @@
 <h2 align="left">Hello! I'm Jonathan Ly</h2>
-<h3 align="center">A Computer Science Student studying at Western Washington University.</h3>
+<h3 align="center">Western Washington University Computer Science Graduate</h3>
 
 - 🔭 I’m currently working on a AI Cybersecurity RMF Tool for the Keyport Naval Base
 
