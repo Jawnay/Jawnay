@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a AI Cybersecurity RMF Tool for the Keyport Naval Base
 
-- 🌱 I’m currently learning Robotics
+- 🌱 I’m currently developing full-stack applications
 
 - 📫 How to reach me **jly2003@gmail.com**
 
