@@ -1,7 +1,7 @@
 <h2 align="left">Hello! I'm Jonathan Ly</h2>
 <h3 align="center">Western Washington University Computer Science Graduate</h3>
 
-- 🔭 I’m currently working on a AI Cybersecurity RMF Tool for the Keyport Naval Base
+- 🔭 I’m currently working on F-15 Software for Boeing
 
 - 🌱 I’m currently developing full-stack applications
 
